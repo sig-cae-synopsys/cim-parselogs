@@ -1,0 +1,141 @@
+[(defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      (fieldChangeDataObj){
+         fieldName = "classification"
+         newValue = "Unclassified"
+         oldValue = None
+      },
+      (fieldChangeDataObj){
+         fieldName = "action"
+         newValue = "Undecided"
+         oldValue = None
+      },
+      (fieldChangeDataObj){
+         fieldName = "fixTarget"
+         newValue = "Untargeted"
+         oldValue = None
+      },
+      (fieldChangeDataObj){
+         fieldName = "severity"
+         newValue = "Unspecified"
+         oldValue = None
+      },
+      (fieldChangeDataObj){
+         fieldName = "legacy"
+         newValue = "False"
+         oldValue = None
+      },
+      (fieldChangeDataObj){
+         fieldName = "owner"
+         newValue = "Unassigned"
+         oldValue = None
+      },
+      None,
+      (fieldChangeDataObj){
+         fieldName = "Parent"
+         newValue = "Non Parent"
+         oldValue = None
+      },
+   comments = None
+   dateModified = 2016-02-23 19:35:16.000070
+   userModified = "kellythw"
+ }, (defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+   dateModified = 2016-02-23 21:05:51.000456
+   userModified = "kellythw"
+ }, (defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      (fieldChangeDataObj){
+         fieldName = "Location"
+         newValue = "http://sjck-gold-23:8081/query/defects.htm?stream=skywalker_n7k-baseline&cid=40081"
+         oldValue = None
+      },
+   dateModified = 2016-02-24 14:48:14.000705
+   userModified = "efeng"
+ }, (defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      (fieldChangeDataObj){
+         fieldName = "Parent"
+         newValue = "Baseline Parent"
+         oldValue = "Non Parent"
+      },
+   dateModified = 2016-02-24 14:50:07.000828
+   userModified = "efeng"
+ }, (defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      (fieldChangeDataObj){
+         fieldName = "Parent"
+         newValue = "Non Parent"
+         oldValue = "Baseline Parent"
+      },
+   dateModified = 2016-02-24 15:04:14.000763
+   userModified = "admin"
+ }, (defectChangeDataObj){
+   affectedStreams[] = 
+      (streamIdDataObj){
+         name = "hsk-kellythw"
+      },
+   attributeChanges[] = 
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      None,
+      (fieldChangeDataObj){
+         fieldName = "Parent"
+         newValue = "User-Marked Parent"
+         oldValue = "Non Parent"
+      },
+   dateModified = 2016-02-24 15:04:35.000787
+   userModified = "admin"
+ }]

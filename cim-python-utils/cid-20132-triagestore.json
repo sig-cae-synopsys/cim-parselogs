@@ -1,0 +1,115 @@
+{
+"TS20132" :{
+  "checker" : "OVERRUN",
+  "cid" : 20132,
+  "dateOriginated" : "2015-05-26T12:18:59.858Z",
+  "detectedBy" : "PREVIEW_REPORT",
+  "domain" : "STATIC_C",
+  "mergeKey" : "12e855d9185b3a8c213343301fbf15e1",
+  "preventVersionExternal" : "7.5.1.5",
+  "preventVersionInternal" : "86f155a8bc p-gilroy-push-19219.699",
+  "triageStates" : [ {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "default triage, overridden by manual triage",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "Non Parent"
+      },
+      "stringAttributes" : { }
+    },
+    "dateCreated" : "0000-12-30T00:07:02.000Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "system",
+    "userCreatedLdapServerName" : "local"
+  }, {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "default triage, overridden by manual triage",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "Non Parent"
+      },
+      "stringAttributes" : {
+        "Location" : "http://sjck-gold-23:8081/query/defects.htm?stream=hsk-baseline&cid=20132"
+      }
+    },
+    "dateCreated" : "2015-06-18T13:45:34.642Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "admin",
+    "userCreatedLdapServerName" : "local"
+  }, {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "default triage, overridden by manual triage",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "Baseline Parent"
+      },
+      "stringAttributes" : {
+        "Location" : "http://sjck-gold-23:8081/query/defects.htm?stream=hsk-baseline&cid=20132"
+      }
+    },
+    "dateCreated" : "2015-06-18T13:45:57.699Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "admin",
+    "userCreatedLdapServerName" : "local"
+  }, {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "User-Marked Parent"
+      },
+      "stringAttributes" : {
+        "Location" : "http://sjck-gold-23:8081/query/defects.htm?stream=hsk-baseline&cid=20132"
+      }
+    },
+    "dateCreated" : "2015-09-28T21:43:36.723Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "shreenik",
+    "userCreatedLdapServerName" : "AD"
+  }, {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "default triage, overridden by manual triage",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "Baseline Parent"
+      },
+      "stringAttributes" : { }
+    },
+    "dateCreated" : "2016-04-01T02:58:37.261Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "admin",
+    "userCreatedLdapServerName" : "local"
+  }, {
+    "action" : "Undecided",
+    "classification" : "Unclassified",
+    "comments" : "default triage, overridden by manual triage",
+    "customTriage" : {
+      "picklistAttributes" : {
+        "Parent" : "Non Parent"
+      },
+      "stringAttributes" : { }
+    },
+    "dateCreated" : "2016-04-01T02:58:37.260Z",
+    "fixTarget" : "Untargeted",
+    "legacy" : "False",
+    "severity" : "Unspecified",
+    "userCreated" : "system",
+    "userCreatedLdapServerName" : "local"
+  } ]
+}
+}
